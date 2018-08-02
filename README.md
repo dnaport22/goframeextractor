@@ -5,7 +5,7 @@ The micro-service is a part of Deep Fashion Project and is developed to use alon
 
 <h1>How to use it</h1>
 <h2>Prerequisites</h2>
- - [ffmpeg](#how-to-install-ffmpeg)
+ - [ffmpeg] (#how-to-install-ffmpeg)
 
 <p>NOTE: scroll down to [Appendices](#appendices) for "how tos"</p>
 
