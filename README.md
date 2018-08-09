@@ -18,6 +18,21 @@ The micro-service is a part of Deep Fashion Project and is developed to use alon
 ##### NOTE: Scroll down to [Appendices](#appendices) for "how tos".
 
 ## Getting the codebase
+=======
+<h1>How to use it</h1>
+<h2>Prerequisites</h2>
+ - [ffmpeg] (#how-to-install-ffmpeg)
+
+<p>NOTE: scroll down to [Appendices](#appendices) for "how tos"</p>
+
+<h1>Setting up local development environment</h1>
+<h2>Prerequisites</h2>
+ - [ffmpeg](#how-to-install-ffmpeg)
+ - [Golang](#https://golang.org/doc/install)
+
+<b>FYI: I used [Goland](https://www.jetbrains.com/go/download/) IDE for developement. I would personally recommend from my experience. However, feel free to pick that works fine for you.</b>
+<b>NOTE: Scroll down to [Appendices](#appendices) for "how tos".</b>
+
 Now we will clone the repository into our local machine to get started with development.
 
 ```bash
